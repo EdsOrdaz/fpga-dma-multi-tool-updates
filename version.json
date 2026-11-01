@@ -2,6 +2,6 @@
   "version": "2.1.0",
   "url": "https://github.com/EdsOrdaz/fpga-dma-multi-tool-updates/releases/download/2.1.0/HyperDMA-2.1.0.exe",
   "notes": "• Nueva tienda en línea\n• Mejoras de velocidad en el flasheo\n• Nuevos idiomas",
-  "sha256": "5B7D2B3A17F475FB32E862C5F0CD9CCD16B1DBD32892A4AE6FB8A82C4EE8A3AD",
+  "sha256": "5B7D2B3A17F475FB32E862C5F0CD9CCD16B1DBD32892A4AE6FB8A82C4EE8A3ADXX",
   "required": false
 }
