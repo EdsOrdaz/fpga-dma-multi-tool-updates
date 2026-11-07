@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/EdsOrdaz/fpga-dma-multi-tool-updates/releases/download/2.0.0/HyperDMA-2.0.0.exe",
+  "version": "2.0.1",
+  "url": "https://github.com/EdsOrdaz/fpga-dma-multi-tool/releases/download/2.0.1/HyperDMA-2.0.1.exe",
   "notes": "",
-  "sha256": "943E6C9C471205AC95C54AF9C6652DC5089E8168CF930256303B26790D725E54",
+  "sha256": "96C719993FED732629D208B55D313EE9B3266D8406003320CA450BC8DA21DA51",
   "required": true
 }
